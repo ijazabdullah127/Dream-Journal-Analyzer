@@ -296,17 +296,6 @@ If you encounter issues:
 6. Try logging out and back in
 7. Review the comprehensive test cases in `TEST_CASES.md`
 
-## 📄 License
-
-This project is created for educational and personal use. Feel free to modify and enhance according to your needs.
-
-## 🙏 Acknowledgments
-
-- **CustomTkinter** for the beautiful GUI framework
-- **TextBlob** for natural language processing capabilities
-- **SQLite** for reliable local data storage
-- **Python Community** for excellent libraries and documentation
-
 ## 🧪 Testing
 
 A comprehensive testing guide is available in [`TEST_CASES.md`](TEST_CASES.md) with:
